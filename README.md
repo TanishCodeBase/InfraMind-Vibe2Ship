@@ -12,7 +12,7 @@ Using Google Gemini 2.5 Flash (Vision + Reasoning), Firebase, and Google Maps Pl
 
 ## Live Demo
 
-🔗 Live Application: [ Add deployed link ]
+🔗 Live Application: https://inframind-prod--inframind-vibe2ship.asia-southeast1.hosted.app/
 
 ---
 
