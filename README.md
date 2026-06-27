@@ -1,6 +1,6 @@
 # InfraMind 🌍
 
-🏆 Built for Google Antigravity Hackathon 2026
+🏆 Built for Vibe2Ship Hackathon 2026
 
 ### AI-Powered Civic Infrastructure Reporting & Municipal Dispatch Platform
 
